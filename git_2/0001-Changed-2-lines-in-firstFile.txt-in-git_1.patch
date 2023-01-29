@@ -1,0 +1,24 @@
+From be9ea530ebc3f6f7042f14c981ca4692842e3ecd Mon Sep 17 00:00:00 2001
+From: Matvey Stetcenko <matveyvs1987@gmail.com>
+Date: Sun, 29 Jan 2023 14:47:03 +0400
+Subject: [PATCH] Changed 2 lines in firstFile.txt in git_1
+
+---
+ firstFile.txt | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/firstFile.txt b/firstFile.txt
+index 488d4d9..937925b 100644
+--- a/firstFile.txt
++++ b/firstFile.txt
+@@ -1,5 +1,5 @@
+-Added firstFile.txt to git_1
+-Added firstFile.txt to git_1
++Changed 2 lines in firstFile.txt in git_1
++Changed 2 lines in firstFile.txt in git_1
+ Added firstFile.txt to git_1
+ Added firstFile.txt to git_1
+ Added firstFile.txt to git_1
+-- 
+2.33.0
+
